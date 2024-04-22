@@ -1,0 +1,17 @@
+canvas{
+    display: block !important;
+    box-sizing: border-box !important;
+    height: 300px !important;
+    width: 300px !important;
+}
+
+.chartSection{
+    flex-basis: 50%;
+    flex-grow: 0;
+    max-width: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}

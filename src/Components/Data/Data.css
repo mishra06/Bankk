@@ -1,0 +1,13 @@
+.mainSection{
+    display: flex;
+    align-items: center;
+}
+
+.left{
+    padding-left: 40px;
+    padding-top: 40px;
+    flex-basis: 50%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    max-width: 50%;
+}
